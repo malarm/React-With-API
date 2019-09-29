@@ -1,0 +1,100 @@
+@import url('https://rsms.me/inter/inter.css');
+
+html {
+  font-family: 'Inter'
+}
+body {
+  background-color: whitesmoke;
+  min-height: 100vh;
+}
+.list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  width: 18rem;
+  border-radius: .5rem;
+  background-color: white;
+  margin: 1rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.img {
+  width:100%;
+  height: 12rem;
+  border-top-left-radius: .5rem;
+  border-top-right-radius: .5rem;
+  object-fit: cover;
+  object-position: center;
+}
+.info {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+.guests {
+  text-transform: uppercase;
+  font-size: .65rem;
+  font-weight: 700;
+  color: gray;
+}
+.price {
+  font-size: 1.5rem;
+  margin-right: .25rem;
+}
+.price-unit {
+  font-size: .875rem;
+}
+.address {
+  font-size: .875rem;
+  font-weight: 300;
+  color: gray;
+}
+.facilities {
+  display: flex;
+	font-size: .875rem;
+	align-items: center;
+  border-style: solid;
+  border-width: 2px;
+  border-right: 0px;
+  border-left: 0px;
+  border-color: whitesmoke;
+}
+.facility {
+  margin-right: .5rem;
+}
+.facility-number {
+  font-weight: 700;
+}
+.owner-box {
+  background-color: #f9f9f9;
+  border-radius: .5rem;
+  border-top: 0px;
+}
+.owner {
+  display: flex;
+  align-items: center;
+}
+.owner-label {
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: gray;
+  font-size: .6rem;
+  margin-bottom: .25rem;
+}
+.owner-img {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 9999px;
+  object-fit: cover;
+  object-position: center;
+  margin-right: 1rem;
+}
+.owner-name {
+	font-size: .875rem;
+  font-weight: 700
+}
+.search {
+  padding: 40px;
+}
