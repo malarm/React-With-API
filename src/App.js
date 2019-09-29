@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import PropertyCard from './PropertyCard'
 
-
 export default function App() {
   // NOTE: Default state for properties as empty array
   // to (1) allow render function to run though we have not received data from API
