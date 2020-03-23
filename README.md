@@ -1,4 +1,4 @@
-
+<h1>Search and Display data from API</h1>
 <p> This website is made for a company which rents out summer houses to its clients. There are two main features in this website.
               The first feature is to show the property details .Using my front-end skills I help the product owner (company owner) show property
                  details such as property picture, number of bedrooms, guest counts, city and price per night. </p>
