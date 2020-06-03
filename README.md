@@ -4,4 +4,4 @@
                  details such as property picture, number of bedrooms, guest counts, city and price per night. </p>
               <p>The second important feature is to show tarrif range in the filter. As the product owner has umpteen number of summer houses,
                  I have added the tarrif range in the filter, in order to help the clients  select the summer houses based on their affordability.</p>
-              <p>Used Technologies : React, HTML5, CSS3 And API</p>
+              <p><b>Used Technologies : React, HTML5, CSS3 And API</></p>
